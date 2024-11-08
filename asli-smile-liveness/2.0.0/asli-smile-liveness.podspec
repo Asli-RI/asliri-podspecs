@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'asli-smile-liveness'
-    s.version           = '1.0.0'
+    s.version           = '2.0.0'
     s.summary           = 'ASLI iOS Smile Liveness'
     s.homepage          = 'https://www.asliri.id'
     s.platform          = :ios
