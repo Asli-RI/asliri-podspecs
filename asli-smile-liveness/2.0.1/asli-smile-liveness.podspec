@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     s.summary           = 'ASLI iOS Smile Liveness'
     s.homepage          = 'https://www.asliri.id'
     s.platform          = :ios
-    s.source            = { :http => "https://storage.googleapis.com/asli-technologies/asli-smile-liveness/2.0.0/AsliSmileLiveness.zip" }
+    s.source            = { :http => "https://storage.googleapis.com/asli-technologies/asli-smile-liveness/2.0.1/AsliSmileLiveness7.5.3.zip" }
     s.ios.deployment_target = '13.0'
     s.ios.vendored_frameworks = "AsliSmileLiveness/AsliSmileLiveness.xcframework"
 
