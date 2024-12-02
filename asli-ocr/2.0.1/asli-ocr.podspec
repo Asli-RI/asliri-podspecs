@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
     s.ios.dependency 'asli-document', '7.5.3'
     s.ios.dependency 'asli-common', '1.0.0'
     s.ios.dependency 'asli-session-core', '1.0.0'
-
+    s.ios.dependency 'asli-face-detection-fast', '7.5.3'
 
 end
