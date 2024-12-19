@@ -8,4 +8,5 @@ Pod::Spec.new do |s|
     s.ios.deployment_target = '13.0'
     s.ios.vendored_frameworks = "AsliSessionCore/AsliSessionCore.xcframework"
 
+    s.ios.dependency 'asli-common', '1.0.0'
 end
