@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'asli-passive-liveness'
-    s.version           = '2.0.2'
+    s.version           = '2.0.3'
     s.summary           = 'ASLI iOS Passive Liveness'
     s.homepage          = 'https://www.asliri.id'
     s.platform          = :ios
