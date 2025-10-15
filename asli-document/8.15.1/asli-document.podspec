@@ -13,4 +13,6 @@ Pod::Spec.new do |s|
     s.ios.dependency 'asli-core', '8.15.1'
     s.ios.dependency 'asli-face-capture', '8.15.1'
     s.ios.dependency 'asli-face-camera', '8.15.1'
+    s.ios.dependency 'asli-document-commons', '8.15.1'
+
 end
